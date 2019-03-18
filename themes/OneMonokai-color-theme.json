@@ -502,6 +502,22 @@
         "fontStyle": "bold",
         "foreground": "#ffffff"
       }
+    },
+    {
+      "name": "Comment: badge",
+      "scope": "paper.idea",
+      "settings": {
+          "fontStyle": "bold",
+          "foreground": "#D7DAE0"
+      }
+    },
+    {
+      "name": "Comment: TODO",
+      "scope": "paper.idea",
+      "settings": {
+          "fontStyle": "bold",
+          "foreground": "#56b6c2"
+      }
     }
   ],
   "colors": {

@@ -1,9 +1,9 @@
 {
-    "name": "one-monokai",
-    "displayName": "One Monokai Theme",
-    "description": "A cross between Monokai and One Dark theme",
+    "name": "one-monokai-academic",
+    "displayName": "One Monokai Theme with Academic Patch",
+    "description": "A cross between Monokai and One Dark theme with Academic Pat",
     "version": "0.3.7",
-    "publisher": "azemoh",
+    "publisher": "schoolknight",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -22,7 +22,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/azemoh/vscode-one-monokai.git"
+        "url": "https://github.com/schoolknight/vscode-monokai-academic"
     },
     "bugs": {
         "url": "https://github.com/azemoh/vscode-one-monokai/issues"
@@ -34,6 +34,6 @@
         "Onedark",
         "Monokai"
     ],
-    "author": "Joshua Azemoh <joshazemoh@gmail.com> (http://azemoh.com)",
+    "author": "schoolknight",
     "license": "MIT"
 }
