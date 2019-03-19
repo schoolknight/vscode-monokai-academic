@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai",
+                "label": "One Monokai Academic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneMonokai-color-theme.json"
             }
@@ -32,7 +32,8 @@
         "Vscode",
         "Theme",
         "Onedark",
-        "Monokai"
+        "Monokai",
+        "Academic"
     ],
     "author": "schoolknight",
     "license": "MIT"

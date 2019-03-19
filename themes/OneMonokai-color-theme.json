@@ -504,21 +504,63 @@
       }
     },
     {
-      "name": "Comment: badge",
+      "name": "Comment: IDEA",
+      "scope": "paper",
+      "settings": {
+          "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Comment: IDEA",
       "scope": "paper.idea",
       "settings": {
-          "fontStyle": "bold",
-          "foreground": "#D7DAE0"
+        "foreground": "#56b6c2"
       }
     },
     {
       "name": "Comment: TODO",
-      "scope": "paper.idea",
+      "scope": "paper.todo",
       "settings": {
-          "fontStyle": "bold",
-          "foreground": "#56b6c2"
+        "foreground": "#d19a66"
       }
-    }
+    },
+    {
+      "name": "Comment: add",
+      "scope": "paper.add",
+      "settings": {
+        "foreground": "#c678dd"
+      }
+    },
+    {
+      "name": "Comment: remove",
+      "scope": "paper.remove",
+      "settings": {
+        "foreground": "#e06c75"
+      }
+    },
+    {
+      "name": "Comment: polish",
+      "scope": "paper.polish",
+      "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "blue text",
+      "scope": "support.function.textcolor.latex.blue,markup.textcolor.blue.latex",
+      "settings": {
+        "foreground": "#61afef"
+      }
+    },
+    {
+      "name": "sout",
+      "scope": "markup.throughline.sout.latex",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+
+
   ],
   "colors": {
     "activityBar.background": "#2F333D",
