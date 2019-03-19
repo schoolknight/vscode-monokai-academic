@@ -2,7 +2,7 @@
     "name": "one-monokai-academic",
     "displayName": "One Monokai Theme with Academic Patch",
     "description": "A cross between Monokai and One Dark theme with Academic Pat",
-    "version": "0.1",
+    "version": "0.1.0",
     "publisher": "schoolknight",
     "engines": {
         "vscode": "^1.13.0"
