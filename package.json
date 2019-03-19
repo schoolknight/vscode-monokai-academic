@@ -2,7 +2,7 @@
     "name": "one-monokai-academic",
     "displayName": "One Monokai Theme with Academic Patch",
     "description": "A cross between Monokai and One Dark theme with Academic Pat",
-    "version": "0.3.7",
+    "version": "0.1",
     "publisher": "schoolknight",
     "engines": {
         "vscode": "^1.13.0"
@@ -25,9 +25,9 @@
         "url": "https://github.com/schoolknight/vscode-monokai-academic"
     },
     "bugs": {
-        "url": "https://github.com/azemoh/vscode-one-monokai/issues"
+        "url": "https://github.com/azemoh/vscode-one-monokai-academic/issues"
     },
-    "homepage": "https://github.com/azemoh/vscode-one-monokai/blob/master/README.md",
+    "homepage": "https://github.com/schoolknight/vscode-monokai-academic/blob/master/README.md",
     "keywords": [
         "Vscode",
         "Theme",
